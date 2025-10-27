@@ -6,7 +6,6 @@ __pycache__/
 *.pyc
 env/
 venv/
-lambda_function.py.zip
 
 # Editor
 .vscode/
