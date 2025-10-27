@@ -127,7 +127,7 @@ def lambda_handler(event, context):
   <pre><code>START RequestId: abc123 Version: $LATEST
 ✅ Successfully processed: resized-test.jpg
 END RequestId: abc123
-REPORT RequestId: abc123 Duration: 500 ms Memory Used: 45 MB
+REPORT RequestId: abc123 Duration: 500 ms Memory Used: 45 mb
   </code></pre>
 
   <h2>🧠 Learning Outcomes</h2>
